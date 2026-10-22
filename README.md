@@ -1,4 +1,4 @@
-# mirra-ai - Secure daily journaling, powered by AI insights.
+# Mirra AI - Secure daily journaling, powered by AI insights
 
 * mirra is a modification of "Mirror," symbolizing self-reflection. 
 * This website is for journaling your thoughts and mood online.
